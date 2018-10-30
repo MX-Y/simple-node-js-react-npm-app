@@ -13,7 +13,6 @@ class App extends Component {
         <p className="App-intro">
          为了自动发布测试。
          为了自动发布测试。
-         为了自动发布测试。
           To get started, edit <code>src/App.js</code> and save to reload.
         </p>
       </div>
